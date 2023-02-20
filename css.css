@@ -1,0 +1,56 @@
+
+body{
+    background:#B7BFE0;
+}
+
+.botones{
+    background: #4765DF; 
+    
+    
+}
+
+.hijo-botones{
+    padding:3%;
+}
+
+.botones:hover{
+    background: #4C60B4; 
+    color:#B7BFE0;
+}
+
+
+.info-uno{
+    
+    background: white;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.info-dos{
+    
+
+    background: white;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+#foto{
+    width: 50%;
+}
+
+footer{
+    position: absolute;
+    bottom:0px;
+    width: 100%;
+
+    background: #4765DF;
+}
+
+.iconos{
+    font-size: 200%;
+}
+
+
+.menu{
+    display:flex;
+    justify-content: center;
+}
